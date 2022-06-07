@@ -64,7 +64,7 @@ For each of the above, I need to:
 4. Print the `imbalanced classification report` from `imblearn.metrics`.
 
 
-Use the above to answer the following questions:
+Using the above to answer the following questions:
 
 1. Which model had the best balanced accuracy score?
 
@@ -104,7 +104,7 @@ Then, I completed the following steps for each model:
 5. For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
 
 
-Use the above to answer the following questions:
+Using the above to answer the following questions:
 
 
 1. Which model had the best balanced accuracy score?
