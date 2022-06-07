@@ -109,15 +109,15 @@ Using the above to answer the following questions:
 
 1. Which model had the best balanced accuracy score?
 
-  **Easy Ensemble Classifier Model have higher accuracy score of 0.9254565671948463**
+  **Both Model have same accuracy score , in my analysis the reason being the data normalisation using StandardScaler function**
 
 2. Which model had the best recall score?
 
-  **Easy Ensemble Classifier Model has 0.91 recall score for high_risk and 0.94 for low_risk**
+  **Both Model has 67% recall score for high_risk and 0.91 for low_risk**
 
 3. Which model had the best geometric mean score?
 
-  **Easy Ensemble Classifier have 0.93 of geometric mean score**
+  **Both model have 78% of geometric mean score**
 
 4. What are the top three features?
 
@@ -125,4 +125,6 @@ Using the above to answer the following questions:
 
 **total_rec_int for  0.06390324452717588**
 
-**total_rec_inv for 0.06073336071656837**
+**total_rec_int' for 0.06073336071656837**
+
+- - -
